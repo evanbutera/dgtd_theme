@@ -1,0 +1,17 @@
+name: dgtd
+type: theme
+description: Drupal Global Training Days
+package: Other
+core: 8.x
+libraries:
+  - dgtd/dgtd
+
+base theme: bartik
+
+regions:
+  content: Content
+  footer: footer
+  header: header
+  subfooter: subfooter
+  supheader: supheader
+  hightlight: hightlight
