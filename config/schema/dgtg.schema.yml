@@ -1,0 +1,5 @@
+# Schema for the configuration files
+
+dgtg.settings:
+  type: theme_settings
+  label: 'dgtg settings'
